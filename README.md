@@ -1,3 +1,3 @@
-# ttc8030-harjoitukset
+# Datan esikäsittely (ttc8030)
 
-Datan esikäsittely -opintojakson harjoitusten repositorio
+Datan esikäsittely -opintojakson harjoitukset ja harjoitustyö
